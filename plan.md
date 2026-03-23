@@ -38,7 +38,7 @@ detail I may have not included in the questions below:
 #### . How do I set up my development environment step by step?
 #### . How do I verify that my setup is working correctly?
 
-### IV. Common Beginner Errors
+### IV. Common Beginner Errors  
 I am a beginner in JavaScript and I have just finished 
 learning the definition of the language, its core 
 concepts and how to install and set up JavaScript on 
