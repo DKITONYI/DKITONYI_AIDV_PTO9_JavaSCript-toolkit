@@ -19,7 +19,7 @@ in the questions below:
 ### II. Core Concepts
 I am a beginner in JavaScript and I have just finished 
 learning the definition of the language. I want to now 
-know the important concepts, simplify it for me but do 
+know the important concepts and libraries , simplify it for me but do 
 not miss important details and add any important detail 
 I may have not included in the questions below:
 #### . What are the core concepts a complete beginner must understand before diving deep into JavaScript?
