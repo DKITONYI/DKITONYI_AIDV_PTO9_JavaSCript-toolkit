@@ -1,6 +1,6 @@
-## Technology Selected: JavaScript
+## Technology Selected: JavaScript  🖥️
 
-## AI Prompt Plan — Using Claude AI
+## AI Prompt Plan — Using Claude AI 🤖
 
 Here are the prompts I will use throughout my JavaScript 
 learning journey:
