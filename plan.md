@@ -26,7 +26,7 @@ I may have not included in the questions below:
 #### . Which concept should I learn first and why?
 #### . Can you give a simple real world analogy for each concept to help me understand?
 
-### III. Setup & Installation
+### III. Setup & Installation 🛠️
 I am a beginner in JavaScript and I have just finished 
 learning the definition of the language and its core 
 concepts. I want to now know how to install JavaScript 
