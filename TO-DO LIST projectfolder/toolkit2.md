@@ -342,24 +342,6 @@ document.getElementById("taskInput")
 | Press Enter | Type a task and press Enter | Task is added |
 | Task count | Add multiple tasks | Count updates correctly |
 
----
-
-## 5. AI Prompts Used & Learning Reflections
-
-**Prompt VI:** "I have just finished writing my first 
-Hello World program using JavaScript. What is the DOM 
-and how do I manipulate it?"
-**Reflection:** I learned that the DOM is like a live 
-map of the webpage that JavaScript can read and change. 
-This is what makes webpages interactive.
-
-**Prompt VII:** "I have just finished learning 
-JavaScript basics and basic DOM manipulation. Help me 
-build a simple beginner friendly project step by step."
-**Reflection:** Building the To-Do List project helped 
-me see how all the core concepts work together in a 
-real application. Testing it helped me find and fix 
-issues on my own.
 
 ---
 
