@@ -345,7 +345,7 @@ document.getElementById("taskInput")
 
 ---
 
-## 6. Reference Resources
+## 5. Reference Resources
 - MDN DOM Manipulation: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 - W3Schools JavaScript Arrays: https://www.w3schools.com/js/js_arrays.asp
 - W3Schools JavaScript Events: https://www.w3schools.com/js/js_events.asp
