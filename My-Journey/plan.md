@@ -1,4 +1,8 @@
 ## Technology Selected: JavaScript  🖥️
+### Why did I choose JavaScript?
+I chose because i wanted to learn what the language is all about .I had heard that it was one of the easiest languages and can be used both is front-end and back-end and i wanted to witness it for myself.
+### What was my end goal in this project?
+Learn JavaScript , create a simple project using JavaScript and come up with a toolkit for both learning ,setting up JavaScript and a toolkit for creating a new program.
 
 ## AI Prompt Plan — Using Claude AI 🤖
 

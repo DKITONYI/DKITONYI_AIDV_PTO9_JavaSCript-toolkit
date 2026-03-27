@@ -36,6 +36,15 @@ This folder contains a complete beginner project.
 | `script.js` | Functionality |
 
 ---
+### 📗 3. My journey 
+This folder contains :
+#### 📗 plan.md 
+ This contains the technology I chose why i chose it and some of the AI prompts I intended to use to help me learn JavaScript as a begginer .
+
+ ---
+ #### 📗 My prompt journal for the whole learning journey
+ #### 📗 Errors I made in learning the project and how to fix them 
+ #### 📗 errors i made in making my simple To-do List
 
 ## 🎯 Who Is This For?  
 - Complete beginners  
