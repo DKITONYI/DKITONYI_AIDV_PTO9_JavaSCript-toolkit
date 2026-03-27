@@ -161,3 +161,8 @@ button.add-btn {
     font-size: 14px;
     padding: 20px 0;
 }
+/* This makes completed tasks show a strikethrough */
+.task-text.done {
+    text-decoration: line-through;
+    color: #c084fc;
+}
