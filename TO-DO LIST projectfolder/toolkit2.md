@@ -36,9 +36,8 @@ javascript-toolkit/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-├── toolkit1.md
-└── toolkit2.md
+
+
 ```
 3. Open the folder in VS Code
 4. Right click `index.html` and click **Open with Live Server**
@@ -46,6 +45,7 @@ javascript-toolkit/
 ---
 
 ## 3. The Code
+--- Paste the code below in you index.html to create the webpage.
 
 ### `index.html`
 ```html
@@ -84,6 +84,8 @@ javascript-toolkit/
 </body>
 </html>
 ```
+
+--paste the code below on your style.css to style the webpage
 
 ### `style.css`
 ```css
@@ -251,6 +253,7 @@ button.add-btn {
     padding: 20px 0;
 }
 ```
+---we will paste the javaScript to manipulate the web page using some of the concepts learnt in toolkit1.
 
 ### `script.js`
 ```javascript
