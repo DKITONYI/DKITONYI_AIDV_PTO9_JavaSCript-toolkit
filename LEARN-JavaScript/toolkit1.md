@@ -63,7 +63,8 @@ document.getElementById("output").innerHTML = "JavaScript is working!"
 4. You should see **JavaScript is working!** on the page
 
 ---
-
+## LETS CREATE YOUR FIRST JavaScript Program 
+--- Create a new folder " first program"  and create the index.html and paste the code below. 
 ## 3. Hello World
 ```html
 <!DOCTYPE html>
@@ -85,6 +86,7 @@ document.getElementById("output").innerHTML = "JavaScript is working!"
 </body>
 </html>
 ```
+--- paste this on the script.js file  in the first program folder.
 ```javascript
 // ============================================
 // MY FIRST JAVASCRIPT PROGRAM — Hello World
@@ -350,7 +352,7 @@ try {
 
 ---
 
-## 7. Reference Resources
+## 6. Reference Resources
 - Official JavaScript Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - W3Schools JavaScript Tutorial: https://www.w3schools.com/js
 - FreeCodeCamp JavaScript Course: https://www.freecodecamp.org
